@@ -1,7 +1,12 @@
-// var triangle = prompt("Enter your three sides of a triangle, space with a comma?");
-// triangle = triangle.replace(/ /g, '');
-// var shape = triangle.split(',');
+var triangleSides = function () {
+    var sideA = parseFloat(document.getElementById('sideA').value);
+    var sideB = parseFloat(document.getElementById('sideB').value);
+    var sideC = parseFloat(document.getElementById('sideC').value);
 
-// shape.forEach(function(item) {
-// 	alert(item);
-// })
+    var output = document.getElementById('output')
+
+    if(isNaN(sideA) || isNaN(sideB) || isNaN(sideC)) {
+        output.textContent = "Nigga! You didn't enter numbers!";
+    }
+    
+}
