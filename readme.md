@@ -23,7 +23,9 @@ This application will use Java Script to analyse the input provided by the user 
 ## Support and contact details
 {It is unlikely that you run into any issues as you use the application. But incase you do, please drop me an email at mr.mwaniki@gmail.com.
 
-You are also welcome to contribute to the code that is available on GitHub.L}
+You are also welcome to contribute to the code that is available on GitHub.
+
+Please reach out for collaboration, consultation or just "Hi, Let's have Coffee."}
 
 ### License
 *{This application use MIT License.}*
