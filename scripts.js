@@ -17,4 +17,8 @@ var triangleSides = function () {
     else if (sideA === sideB || sideB === sideC || sideC === sideA ) {
         output.textContent = "That's an Isosceles";
     }
+    else {
+        output.textContent = "That's a Scalane Triangle";
+    }
+    
 }
