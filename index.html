@@ -8,28 +8,33 @@
     <title>Triangle Tracker</title>
 </head>
 <body>
+<div class="container">
+<div class="introduction">
     <h1>Triangle Tracker Web Application</h1>
     <p>The Application will allow you to Enter Three sides of the Trianle, then the app will compute the sides and tell you whether the Triangle is an Equilateral,Isosceles,Scalene or Not Triangle at all.</p>
     <P>Please enter three values of triangle lengths.</P>  
+</div>
 
     <script src="scripts.js"></script>
-<div class="container"></div>
+
 <div class="input">
     <h1>Sides of a Triangle.</h1>
 
     <p>Side A: <input type="text" size="10" id="sideA"></p>
     <p>Side B: <input type="text" size="10" id="sideB"></p>
     <p>Side C: <input type="text" size="10" id="sideC"></p>
-    
+</div>  
         
-<div class="button">
+<div id ="button">
 <button type="button" onclick="triangleSides()">Submit </button>
 </div>
    
-</div>
-<div class="output"></div>
+<div class="output">
 <h1>Output Results</h1>
 <p id="output">Sides of a Triangle</p>
 </div>
+
+</div>
+
 </body>
 </html>
