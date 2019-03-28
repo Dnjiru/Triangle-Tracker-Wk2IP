@@ -9,7 +9,7 @@ var triangleSides = function () {
         output.textContent = "Nigga! You didn't enter numbers!";
     } else if (sideA = sideB = sideC )
     output.textContent = "That's an Equilateral Triangle!";
-    } else if (sideA >= sideB + sideC )
-    output.textContent = "That's Not Triangle!";
+    
+   
     
 }
