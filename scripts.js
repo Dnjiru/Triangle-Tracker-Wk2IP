@@ -15,10 +15,10 @@ var triangleSides = function () {
         output.textContent = "That is Not a Triangle!";
     }
     else if (sideA === sideB || sideB === sideC || sideC === sideA ) {
-        output.textContent = "That's an Isosceles";
+        output.textContent = "That's an Isosceles Triangle!";
     }
     else {
-        output.textContent = "That's a Scalane Triangle";
+        output.textContent = "That's a Scalane Triangle!";
     }
     
 }
