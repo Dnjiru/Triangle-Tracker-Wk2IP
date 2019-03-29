@@ -1,5 +1,8 @@
 .body {
-    background-color: ivory;
+    background-image: backgr.jpg;
+    background-size: cover;
+    background-attachment: fixed;
+
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 2px solid burlywood;
 
@@ -20,6 +23,6 @@
 
 .output {
     background-color: lightseagreen;
-    padding: 5px
+    padding: 1px;
 }
 
