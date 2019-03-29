@@ -51,6 +51,16 @@ body {
     color: whitesmoke;
 }
 
+.footer {
+    background-color: lightseagreen;
+    border: 2px solid white;
+    padding: 0px;
+    opacity: 0.3;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 1.0rem;
+   
+}
 
 }
 
