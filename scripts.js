@@ -6,7 +6,7 @@ var triangleSides = function () {
     var output = document.getElementById('output')
 
     if(isNaN(sideA) || isNaN(sideB) || isNaN(sideC)) {
-        output.textContent = "Nigga! You didn't enter numbers!";
+        output.textContent = "Sorry, You didn't enter numbers as required!";
     } 
     else if (sideA === sideB && sideA === sideC ){
         output.textContent = "That's an Equilateral Triangle!";
