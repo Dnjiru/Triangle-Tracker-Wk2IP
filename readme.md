@@ -10,12 +10,7 @@ It is important to note, you can have a triangle is one side is larger than the 
 
 This application will use Java Script to analyse the input provided by the user and give an output. Being a web app, we shall use a HTML for mark up and CSS for styling. }
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+{This is a Web Application developed on HTML, CSS and Java Script. All you need to run is a browser and internet. However, if you have the code locally, it can run on your computer browser.}
 ## Behavior Driven Development(BDD)
 {Before writing this code, I focused first on the behaviours that I would want to see in our final application. I considered what the program should do, thought through possible scenarios when the user would encounter when interacting with the application. I considered how the application will handle input of other characters instead of numbers (intergers) or no value at all. 
 
@@ -33,6 +28,10 @@ Please reach out for collaboration, consultation or just "Hi, Let's have Coffee.
 
 ## Authors Information
 {David Mwaniki Njiru, is a full stack development student.He recently enrolled for Web and Mobile Apps development. A Journey that has opened his vision into a new horizon. He has a background in Electrical and Mechanical Services in Data Centres and High Critical Enviroment. He has been working in the Telcom Industry for the last 7Years.}
+
+## Access Application
+{Here is the link to GitHub Page where you can access the application online.
+https://dnjiru.github.io/Triangle-Tracker-Wk2IP/}
 
 ### License
 *{This application use MIT License.}*
