@@ -31,7 +31,7 @@ Please reach out for collaboration, consultation or just "Hi, Let's have Coffee.
 
 ## Access Application
 {Here is the link to GitHub Page where you can access the application online.
-https://dnjiru.github.io/Triangle-Tracker-Wk2IP/}
+https://dnjiru.github.io/Triangle-Tracker-Wk2IP/ } 
 
 ### License
 *{This application use MIT License.}*
