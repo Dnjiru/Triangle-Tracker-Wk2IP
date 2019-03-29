@@ -16,6 +16,10 @@ This application will use Java Script to analyse the input provided by the user 
 * easy-to-understand
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+## Behavior Driven Development(BDD)
+{Before writing this code, I focused first on the behaviours that I would want to see in our final application. I considered what the program should do, thought through possible scenarios when the user would encounter when interacting with the application. I considered how the application will handle input of other characters instead of numbers (intergers) or no value at all. 
+
+Therefore, I developed an application that will take three values as lengths of a triangle and give a response to the user what type of the triangle do the values makes. If the values can not make a triangle, the application gives a response; that is not a triangle. }
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
