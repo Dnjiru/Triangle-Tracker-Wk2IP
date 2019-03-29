@@ -12,7 +12,14 @@
     
 }
 
+.input {
+    background-color: aliceblue;
+    padding: 5px;
+
+}
+
 .output {
-    flex:auto;
+    background-color: lightseagreen;
+    padding: 5px
 }
 
